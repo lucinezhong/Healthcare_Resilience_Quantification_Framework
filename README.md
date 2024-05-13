@@ -1,6 +1,9 @@
-This package includes codes for the quantification framework of healthcare system resileince in our study in 2024 accepted by Nature Medicine
+This package includes codes for the quantification framework of healthcare system resilience in our study in 2024 accepted by Nature Medicine
+
 "Healthcare system resilience and adaptability to pandemic disruptions in the United States". 
+
 Authors: Lu Zhong, Dimitri Lopez, Sen Pei, and Jianxi Gao
+
 Institute: Department of Computer Science, Rensselaer Polytechnic Institute
            Network Science and Technology Center, Rensselaer Polytechnic Institute
            Department of Environmental Health Sciences, Columbia University
