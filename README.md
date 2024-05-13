@@ -4,8 +4,8 @@ Title: <strong>"Healthcare System Resilience and Adaptability to Pandemic Disrup
 
 Authors: Lu Zhong, Dimitri Lopez, Sen Pei, and Jianxi Gao
 
-Institute: Department of Computer Science, Rensselaer Polytechnic Institute;
-           Department of Environmental Health Sciences, Columbia University
+Institute: Department of Computer Science, Rensselaer Polytechnic Institute;<br /> 
+                     Department of Environmental Health Sciences, Columbia University
 
  <strong>Abstract</strong>: 
 
