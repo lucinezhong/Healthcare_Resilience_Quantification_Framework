@@ -10,16 +10,16 @@ Institute: Department of Computer Science, Rensselaer Polytechnic Institute
 
 Abstract: 
 Codes:
-1. Quantification framework
-2. Diagram figure
-3. Validation with external datasets
+           1. Quantification framework
+           2. Diagram figure
+           3. Validation with external datasets
 
 Datasets:
-1) The major data that support the findings of this study are available from the
-Healthjump database and the COVID-19 Research Database consortium. However,
-restrictions apply to the availability of these data, which were used under
-license for the current study. The EMR dataset is not publicly available.
-2) External datasets are sourced from the National Center for Health Statistics and US Census Bureau.
+           1) The major data that support the findings of this study are available from the
+           Healthjump database and the COVID-19 Research Database consortium. However,
+           restrictions apply to the availability of these data, which were used under
+           license for the current study. The EMR dataset is not publicly available.
+           2) External datasets are sourced from the National Center for Health Statistics and US Census Bureau.
 
 Acknowledgment:
 We acknowledge the support of Research Accelerator grants funded by the Bill \& Melinda Gates Foundation.
