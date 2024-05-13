@@ -8,6 +8,7 @@ Institute: Department of Computer Science, Rensselaer Polytechnic Institute
            Network Science and Technology Center, Rensselaer Polytechnic Institute
            Department of Environmental Health Sciences, Columbia University
 
+Abstract: 
 Codes:
 1. Quantification framework
 2. Diagram figure
@@ -18,7 +19,7 @@ Datasets:
 Healthjump database and the COVID-19 Research Database consortium. However,
 restrictions apply to the availability of these data, which were used under
 license for the current study. The EMR dataset is not publicly available.
-2) External datasets is sourced from National Center for Health Statistic and US Census Bureau.
+2) External datasets are sourced from the National Center for Health Statistics and US Census Bureau.
 
-Acknowlegement:
+Acknowledgment:
 We acknowledge the support of Research Accelerator grants funded by the Bill \& Melinda Gates Foundation.
