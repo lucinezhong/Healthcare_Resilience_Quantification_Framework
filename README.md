@@ -1,4 +1,4 @@
-This package includes codes for the framework of healthcare system resilience in our study accepted by  <strong>Nature Medicine </strong> in 2024
+This package includes codes for the framework of healthcare system resilience in our study in 2024 accepted by  <strong>Nature Medicine </strong> 
 
 Title: <strong>"Healthcare System Resilience and Adaptability to Pandemic Disruptions in the United States" </strong>
 
