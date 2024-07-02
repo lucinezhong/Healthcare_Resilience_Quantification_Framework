@@ -21,7 +21,7 @@ Institute: Department of Computer Science, Rensselaer Polytechnic Institute;<br 
            license for the current study. The EMR dataset is not publicly available.
  2) External datasets are sourced from the National Center for Health Statistics and US Census Bureau.
  
-***Due to restrictions on sharing datasets from the COVID-19 Research Database, the provided codes only include results derived from sample data.
+***Due to restrictions on sharing datasets from the COVID-19 Research Database, the provided codes only include results derived from synthetic data.
 
  <strong>Acknowledgment </strong>:
 We acknowledge the support of Research Accelerator grants funded by the Bill \& Melinda Gates Foundation.
