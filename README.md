@@ -1,6 +1,6 @@
 This package includes codes for the framework of healthcare system resilience in our study in Nature Medicine.
 
-Title: <strong>"Healthcare System Resilience and Adaptability to Pandemic Disruptions in the United States" </strong>
+Title: Healthcare System Resilience and Adaptability to Pandemic Disruptions in the United States
 
 Authors: Lu Zhong, Dimitri Lopez, Sen Pei, and Jianxi Gao
 
