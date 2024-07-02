@@ -7,8 +7,6 @@ Authors: Lu Zhong, Dimitri Lopez, Sen Pei, and Jianxi Gao
 Institute: Department of Computer Science, Rensselaer Polytechnic Institute;<br /> 
                      Department of Environmental Health Sciences, Columbia University
 
- <strong>Abstract</strong>: 
-
  <strong>Codes</strong>:
 1. Diagram figure
 2. Quantification framework
