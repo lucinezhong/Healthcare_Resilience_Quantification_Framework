@@ -12,7 +12,7 @@ Institute: Department of Computer Science, Rensselaer Polytechnic Institute;<br 
 2. Quantification framework
 3. Validation with external datasets
    
-***Due to restrictions on sharing data and result policy from the COVID-19 Research Database, the provided codes only include results derived from synthetic data.
+***Due to restrictions on sharing data policy from the COVID-19 Research Database, the provided codes only include results derived from synthetic data.
    
  <strong>Datasets</strong>:
 1) The major data that support the findings of this study are available from the

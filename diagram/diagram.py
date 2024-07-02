@@ -3,7 +3,11 @@ import numpy as np
 import matplotlib.pyplot as plt
 import math
 
+<<<<<<< HEAD
 def beta_family_equation(t,a,b,c,v):
+=======
+def recovery_function(t,a,b,c,v):
+>>>>>>> parent of 33ae8bb (Delete diagram directory)
     return a*(math.pow((b+c),b+c)/(math.pow(b,b)*math.pow(c,c)))*np.power(t/v,b)*np.power(1-t/v,c)
 
 def diagram_plot(case):
@@ -16,7 +20,11 @@ def diagram_plot(case):
 
     start_t1=10;end_t1=40;v=end_t1-start_t1
 
+<<<<<<< HEAD
     if case=='example_single_disruption':
+=======
+    if case=='example':
+>>>>>>> parent of 33ae8bb (Delete diagram directory)
         a=0.5;b=2;c=2
     if case=='example_large_magnitude':
         a=0.6;b=2;c=2
@@ -31,7 +39,11 @@ def diagram_plot(case):
 
 
     t_MOP = np.arange(0, v)
+<<<<<<< HEAD
     y_MOP_temp=list(beta_family_equation(t_MOP,a,b,c,v))
+=======
+    y_MOP_temp=list(recovery_function(t_MOP,a,b,c,v))
+>>>>>>> parent of 33ae8bb (Delete diagram directory)
     absorb_t1 = [x for x, y in zip(t, y_MOP_temp) if y == np.max(y_MOP_temp)][0]+start_t1
     y_MOP=list([0]*start_t1)+y_MOP_temp+list([0]*(duration*10-end_t1))
 
@@ -98,7 +110,11 @@ def diagram_mutliple_plot(case):
     v = end_t1 - start_t1
     a=0.6-0.2;b=1;c=3
     t_MOP = np.arange(0, v)
+<<<<<<< HEAD
     y_MOP_temp1 = list(beta_family_equation(t_MOP, a, b, c, v))
+=======
+    y_MOP_temp1 = list(recovery_function(t_MOP, a, b, c, v))
+>>>>>>> parent of 33ae8bb (Delete diagram directory)
     absorb_t1= [x for x, y in zip(t, y_MOP_temp1) if y == np.max(y_MOP_temp1)][0] + start_t1
 
     start_t2=end_t1
@@ -106,7 +122,11 @@ def diagram_mutliple_plot(case):
     v=end_t2-end_t1
     a2 = 0.75-0.2;b2 = 3; c2 = 1 ####or b2=3, c2=1
     t_MOP = np.arange(0, v)
+<<<<<<< HEAD
     y_MOP_temp2 = list(beta_family_equation(t_MOP, a2, b2, c2, v))
+=======
+    y_MOP_temp2 = list(recovery_function(t_MOP, a2, b2, c2, v))
+>>>>>>> parent of 33ae8bb (Delete diagram directory)
     absorb_t2 = [x for x, y in zip(t, y_MOP_temp2) if y == np.max(y_MOP_temp2)][0] + start_t2
     print('length',len(y_MOP_temp1),len(y_MOP_temp2))
     y_MOP = list([0] * start_t1) + list(y_MOP_temp1) + list(y_MOP_temp2)+list([0]*(duration*10-end_t2))
@@ -172,7 +192,11 @@ def diagram_mutliple_plot(case):
 if __name__ == '__main__':
 
 
+<<<<<<< HEAD
     case = 'example_single_disruption'
+=======
+    case = 'example'
+>>>>>>> parent of 33ae8bb (Delete diagram directory)
     diagram_plot(case)
 
 
